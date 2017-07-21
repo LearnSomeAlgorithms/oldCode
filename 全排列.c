@@ -1,4 +1,4 @@
-//х╚ееап╡╩х╔жь╦╢ 
+//Е┘╗Ф▌▓Е┬≈Д╦█Е▌╩И┤█Е╓█ 
 #include<stdio.h>
 #include<string.h>
 #define M 10
